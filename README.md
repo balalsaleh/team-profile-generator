@@ -15,18 +15,23 @@ A set of four test suites were tested against the code. This passed successfully
 ## Images
 
 Test Passing
+
 ![Tests Passing](./images/testsPassing.png)
 
 Options
+
 ![options](./images/Options.png)
 
 Using the team profile generator
+
 ![team profile generator](./images/fillingOutIndex.png)
 
 Output folder
+
 ![Output](./images/outputTeam.png)
 
 Generated Team Profile
+
 ![generated team profile generator](./images/myTeam.png)
 
 ## Link
